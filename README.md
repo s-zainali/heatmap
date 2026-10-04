@@ -1,1 +1,1 @@
-# habit-heatmap
+# heatmap
